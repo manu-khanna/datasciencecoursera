@@ -1,0 +1,17 @@
+---
+title: "HelloWorld"
+author: "Manu Khanna"
+date: "6/11/2020"
+output: pdf_document
+---
+
+```{r}
+print("## This is a markdown file")
+```
+
+
+
+
+
+
+
